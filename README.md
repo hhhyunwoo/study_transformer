@@ -175,6 +175,7 @@ By the end of this study program, you will:
 
 - [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 - [Transformer Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=TQQlZhbC5ps)
+- [Stanford CS229: Machine Learning Course](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=1) - Full playlist covering ML fundamentals
 
 ### Papers
 
